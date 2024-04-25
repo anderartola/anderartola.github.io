@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Hey! Welcome to this new webpage! :) 
+Hey! Welcome to this new webpage! :)
