@@ -18,7 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! I'm Ander Artola, a physics master's student at Heidelberg University under the supervision of [Dr. Sarah Bosman](https://sites.google.com/view/sarahbosman). ---
-I will be joining the [Max Planck Institute for Software Systems](https://www.mpi-sws.org) as a PhD. student, under the supervision of [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/) and as part of the IMPRS-TRUST program!
+Welcome! I'm Ander Artola a PhD. student at the [Max Planck Institute for Software Systems](https://www.mpi-sws.org), under the supervision of [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/) and as part of the IMPRS-TRUST program. Previously, I obtained my masters at Heidelberg University under the supervision of [Dr. Sarah Bosman](https://sites.google.com/view/sarahbosman). 
 
-My primary interests are in artificial intelligence, uncertainty quantification, and statistical inference. I am also interested in applying machine learning to problems in physics and cosmology. More generally, I enjoy anything related to mathematics and coding.
+My primary interests include:
+* Machine learning, uncertainty quantification, explainability and support systems
+* Statistical inference techniques
+* Decision-making 
+* Differential geometry and its applications
+* Cosmology, dark matter, the intergalic-medium and reionisation
