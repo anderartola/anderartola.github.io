@@ -2,7 +2,7 @@
 layout: page
 permalink: /code/
 title: code
-description: 
+description: You can find my relevant code on GitHub!
 nav: true
 nav_order: 4
 ---
