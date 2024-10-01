@@ -22,6 +22,7 @@ Welcome! I'm Ander Artola a PhD. student at the [Max Planck Institute for Softwa
 
 My primary interests include:
 * Machine learning, uncertainty quantification, explainability and support systems
+* Bayesian modelling
 * Statistical inference techniques
 * Decision-making 
 * Differential geometry and its applications
