@@ -26,4 +26,4 @@ My primary interests include:
 * Statistical inference techniques
 * Decision-making 
 * Differential geometry and its applications
-* Cosmology, dark matter, the intergalic-medium and reionisation
+* Cosmology, dark matter, the intergalactic medium and reionisation
