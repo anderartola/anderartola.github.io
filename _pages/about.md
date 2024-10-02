@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Max Planck Institute for Software Systems
+subtitle: Max Planck Institute for Software Systems, Germany.
 
 profile:
   align: right
