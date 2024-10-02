@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Heidelberg University & Institute For Theoretical Physics, Germany.
+subtitle: Max Planck Institute for Software Systems
 
 profile:
   align: right
