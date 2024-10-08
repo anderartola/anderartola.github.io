@@ -25,5 +25,6 @@ My primary interests include:
 * Bayesian modelling
 * Statistical inference techniques
 * Decision-making 
-* Differential geometry and its applications
-* Cosmology, dark matter, the intergalactic medium and reionisation
+* (Differential geometry and its applications)
+* (Cosmology, dark matter, the intergalactic medium and reionisation)
+* Anything that is intensive in abstract reasoning: from coding to philosophy
