@@ -28,3 +28,5 @@ My primary interests include:
 * (Differential geometry and its applications)
 * (Cosmology, dark matter, the intergalactic medium and reionisation)
 * Anything that is intensive in abstract reasoning: from coding to philosophy
+
+You can find my CV [here](/assets/pdf/CV.pdf).
