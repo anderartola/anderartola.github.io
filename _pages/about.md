@@ -22,8 +22,8 @@ Welcome! I'm Ander, a PhD. student at the [Max Planck Institute for Software Sys
 
 My primary interests include:
 * Machine learning, uncertainty quantification, explainability and support systems
-* Bayesian modelling
-* Statistical inference techniques
+* Bayesian modelling and inference
+* Causality
 * Decision-making 
 * (Differential geometry and its applications)
 * (Cosmology, dark matter, the intergalactic medium and reionisation)
