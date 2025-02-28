@@ -7,3 +7,4 @@ repo_description_lines_max: 2
 github_repos:
   - anderartola/IMNN_WDM
   - anderartola/MSc.-Thesis
+  - anderartola/Lipschitz-bandits
