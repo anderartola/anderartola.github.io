@@ -9,3 +9,5 @@ github_repos:
   - anderartola/MSc.-Thesis
   - anderartola/Lipschitz-bandits
   - Networks-Learning/coupled-llm-evaluation
+  - Networks-Learning/action-sets
+  - Networks-Learning/token-pricing
