@@ -5,7 +5,7 @@
 title: Ander Artola Velasco # the website title (if blank, full name will be used instead)
 first_name: Ander
 middle_name: 
-last_name: Artola Velasco
+last_name: Artola~Velasco
 email: artolavelascoander@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
@@ -93,7 +93,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid:  # your Google Scholar ID
+scholar_userid: TgSCD7QAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -308,7 +308,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Artola]
+  last_name: [Artola~Velasco]
   first_name: [Ander]
 
   style: apa
