@@ -3,7 +3,7 @@ layout: page
 permalink: /code/
 title: code
 description: Some code for the projects I have worked on
-nav: true
+nav: false
 nav_order: 4
 ---
 

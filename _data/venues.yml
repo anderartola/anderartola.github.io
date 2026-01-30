@@ -1,9 +1,8 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"AISTATS":
+  url: https://www.aistats.org/
+  color: "#489e9e"
 
-"Vision":
-  color: "#009f36"
+"ICML Workshop":
+  url: https://www.icml.cc/
+  color: "#ff934c"
