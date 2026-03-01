@@ -22,7 +22,7 @@ Hi! I'm Ander, a PhD. student at the [Max Planck Institute for Software Systems]
 
 <div style="border-left: 4px solid #4c8bf5; padding: 0.5em 1em; margin: 1em 0; background-color: rgba(76, 139, 245, 0.08);">
   <strong style="color: #4c8bf5;">I'm currently seeking research internships in industry</strong>  
-  – focused on <strong>decision-making and strategic behavior in LLMs, inference, optimization, and uncertainty quantification</strong>.  
+  – focused on <strong>decision-making and strategic behavior in LLMs, inference, optimization, uncertainty quantification and evaluation</strong>.  
   If my research interests align with your team’s goals, I’d be excited to connect!
 </div>
 
