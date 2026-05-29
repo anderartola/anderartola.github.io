@@ -22,4 +22,17 @@ nav_order: 3
     </div>
   </div>
 
+  <div class="col">
+    <div class="card h-100">
+      <div class="card-body">
+        <h5 class="card-title">Sequential Experiments Demo</h5>
+        <p class="card-text">An interactive dashboard exploring how regulators can optimize social utility by subsidizing sequential randomized controlled trials, modeled using a belief Markov decision process.</p>
+      </div>
+      <div class="card-footer d-flex gap-2">
+        <a href="https://anderartola.github.io/strategic-experiments-demo/" class="btn btn-sm btn-outline-primary" target="_blank" rel="noopener noreferrer">Live demo</a>
+        <a href="https://github.com/anderartola/strategic-experiments-demo" class="btn btn-sm btn-outline-secondary" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </div>
+    </div>
+  </div>
+
 </div>
