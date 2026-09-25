@@ -10,3 +10,7 @@
 "ICLR Workshop":
   url: https://iclr.cc
   color: "#4cbb17"
+
+"NeurIPS":
+  url: https://neurips.cc
+  color: "#4cbb17"
